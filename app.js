@@ -1,11 +1,9 @@
-let a = 5;
-let b = 2;
-let myName = "san";
+const amIFat = true;
+const amIThin = false;
+console.log(amIFat);
+console.log(amIThin);
 
-console.log(a + b);
-console.log(a * b);
-console.log(a / b);
-console.log("hello " + myName);
-
-myName = "mountain";
-console.log("your new name is " + myName);
+const whoAmI = null;
+let whoAreYou;
+console.log(whoAmI);
+console.log(whoAreYou);
