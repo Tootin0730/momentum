@@ -1,9 +1,5 @@
-const amIFat = true;
-const amIThin = false;
-console.log(amIFat);
-console.log(amIThin);
-
-const whoAmI = null;
-let whoAreYou;
-console.log(whoAmI);
-console.log(whoAreYou);
+const toBuy = ["potato", "tomato", "pizza"];
+toBuy.push("gimbab");
+console.log(toBuy);
+console.log(toBuy[2]);
+console.log(toBuy[0]);
