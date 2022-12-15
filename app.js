@@ -1,29 +1,40 @@
-function sayHello(nameOfPerson, age) {
-  console.log("Hello my name is " + nameOfPerson + " and I'm " + age)
-}
 
-sayHello("nico", 10);
-sayHello("lynn", 23);
-sayHello("marry", 20);
+//Make calculator//
 
-function plus(firstNumber, secondNumber) {
-  console.log(firstNumber + secondNumber);
-}
-
-function divide(a, b) {
-  console.log(a / b);
-}
-
-plus(60, 8);
-divide(98, 20);
-
-const player = {
-  name: "nico",
-  sayHi: function (otherPersonsName) {
-    console.log("Hi! " + otherPersonsName + ". Nice to meet you!");
+const calculator = {
+  add: function (a, b) {
+    console.log(a + b);
+  },
+  minus: function (a, b) {
+    console.log(a - b);
+  },
+  divide: function (a, b) {
+    console.log(a / b);
+  },
+  multi: function (a, b) {
+    console.log(a * b);
+  },
+  power: function (a, b) {
+    console.log(a ** b);
   },
 };
 
-console.log(player.name);
-player.sayHi("Lynn");
-player.sayHi("nico");
+calculator.add(3, 5);
+calculator.minus(3, 5);
+calculator.divide(3, 5);
+calculator.multi(3, 5);
+calculator.power(3, 5);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
