@@ -28,9 +28,7 @@ else {
   paintGreetings(savedUsername);
 }
 //Edit commit title and commit again//
-
-
-
-
+//But I found out this commit is useless//
+//This commit's title is "Loading Usename".//
 
 
