@@ -1,5 +1,6 @@
 # Chrome App
 ### Building a Chrome App with *Vanilla JavaScript*
+HTML /  CSS /   JavaSccript
 ___
 ### Features implemented
 
