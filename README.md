@@ -1,6 +1,9 @@
 # Chrome App
 ### Building a Chrome App with *Vanilla JavaScript*
 HTML /  CSS /   JavaSccript
+
+Result : URL - [tootin0730.github.io/momentum/](https://tootin0730.github.io/momentum/)
+
 ___
 ### Features implemented
 
@@ -31,4 +34,3 @@ https://user-images.githubusercontent.com/84171352/210160989-6d5efbe1-8da2-43d9-
 -- :point_up:   Try this! --
 
 ___
-URL : [tootin0730.github.io/momentum/](https://tootin0730.github.io/momentum/)
