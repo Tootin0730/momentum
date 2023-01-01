@@ -1,5 +1,5 @@
 # Momentum
-### Chrome App
+### Responsive *Chrome App*
 HTML /  CSS /   Vanilla JavaSccript
 
 Result : URL - [tootin0730.github.io/momentum/](https://tootin0730.github.io/momentum/)
